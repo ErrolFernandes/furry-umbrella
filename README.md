@@ -1,2 +1,2 @@
 # furry-umbrella
-Visit.. 
+Visit.
